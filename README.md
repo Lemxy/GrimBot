@@ -7,6 +7,9 @@
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![discord.py](https://img.shields.io/badge/discord.py-2.3%2B-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordpy.readthedocs.io/)
 [![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)]()
+[![Discord](https://img.shields.io/badge/Discord-Присоединиться-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pH2bpWRMng)
+
+📌 Бот активно работает на сервере **[GrimTool](https://discord.gg/pH2bpWRMng)** — заходи посмотреть в деле.
 
 </div>
 
